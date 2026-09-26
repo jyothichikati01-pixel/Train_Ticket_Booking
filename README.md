@@ -149,7 +149,7 @@ Possible improvements include:
 
 ---
 
-## Project Summary
+## ⭐ Project Summary
 
 **Train Ticket Booking System** is a console-based application developed using **C programming** to automate basic railway ticket reservation activities. The system allows users to register and log in, view available trains, reserve and cancel tickets, check booking details, and manage waiting-list passengers. An admin module is provided to add and manage train information.
 
